@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "dspy"
+version = "0.1.0"
+description = ""
+authors = ["kevin-v96 <kevinvegda@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+dspy-ai-hmoazam = "^1.6.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
